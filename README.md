@@ -1,58 +1,13 @@
+# I'm Arjun
 
+## About Me
+<p align="left">My name is Arjun M Kandhan , I just like to develope crazy stuff</p>
 
-# Hi there 👋 I'm Arjun
-
-## 🚀 About Me
-<p align="left">My name is Arjun M Kandhan and I'm a Student  from Vellore Institute of technology Vellore .</p>
-
-I am a **Computer Science and Engineering student** passionate about building software, exploring system design, and learning modern technologies used in real-world applications.
-
-* 🎓 Computer Science Engineering Student
-* 💻 Interested in Building AI Agents and AI models & Software Engineering
-* ⚙️ Exploring System Design, Databases, and Scalable Applications
-* 🌱 Currently learning: React, Node.js, Docker, and Distributed Systems
-* 📚 Always learning new technologies and improving problem-solving skills
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-* C
-* C++
-* Python
-* Java  
-* HTML 
-* CSS 
-* JavaScript
-* Postgresql 
-### 🌐 Web Development
-
-* HTML5
-* CSS3
-* Javascript 
-
-### 🗄️ Databases
-
-* MySQL
-
-
-### ⚙️ Tools & Technologies
-
-* Git & GitHub
-* Docker
-* Linux / Bash / WSL 
-* VS Code 
-* Jet Brains 
-
-
-## 🌍 Connect With Me
+--- 
+##  Connect With Me
 
 * GitHub: https://github.com/Arjunmkandhan
 * LinkedIn: https://www.linkedin.com/in/arjun-m-kandhan-2b732a334/
-* Portfolio: https://www.linkedin.com/in/arjun-m-kandhan-2b732a334/ 
-
----
 
 ---
 
@@ -98,3 +53,4 @@ I am a **Computer Science and Engineering student** passionate about building so
 </div>
 
 ###
+---
